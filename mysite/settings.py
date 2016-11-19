@@ -26,6 +26,8 @@ SECRET_KEY = 'nbcp8d8zxw-53=@q7l7_=2n+odhpva_od^y9%@cz@#3%yi!s5&'
 DEBUG = True
 
 ALLOWED_HOSTS = ['szenatasha.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1']
+
 
 
 # Application definition
