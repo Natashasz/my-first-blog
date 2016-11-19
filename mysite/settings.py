@@ -25,10 +25,7 @@ SECRET_KEY = 'nbcp8d8zxw-53=@q7l7_=2n+odhpva_od^y9%@cz@#3%yi!s5&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['szenatasha.pythonanywhere.com']
-ALLOWED_HOSTS = ['127.0.0.1']
-
-
+ALLOWED_HOSTS = ['szenatasha.pythonanywhere.com', '127.0.0.1']
 
 # Application definition
 
